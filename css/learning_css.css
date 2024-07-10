@@ -1,0 +1,11 @@
+@font-face {
+	font-family: "josefin slab";
+	src: url(fonts/JosefinSlab-Regular.ttf);
+ }
+body {
+	background-color: #252525;
+	color: white;
+	font-family: "josefin slab";
+	font-size: 40px;
+	text-align: center;
+}
